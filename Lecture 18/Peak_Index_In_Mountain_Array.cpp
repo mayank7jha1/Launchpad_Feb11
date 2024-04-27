@@ -1,4 +1,5 @@
 #include<iostream>
+//This is Solution for two problems : Peak Index in a Mountain Array and Peak Element in Leetcode.
 using  namespace std;
 
 int main() {
