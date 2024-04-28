@@ -4,6 +4,8 @@
 using  namespace std;
 #define PI 3.14159265359
 
+//This code is for advance users jinhone functions padh rakha hain jinhone nahi padha please don't read this and wait jab tak class me functions na hojaye.
+
 double Function(double x, double b, double c) {
 
 	return (x * x + b * x + c) / sin(x);
