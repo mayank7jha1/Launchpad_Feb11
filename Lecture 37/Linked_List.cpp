@@ -37,6 +37,8 @@ int main() {
 	cout << isCycle(head) << endl;
 	CycleRemoval(head);
 	cout << isCycle(head) << endl;
+
+	//For the main  header file check the linked list.h file
 }
 
 
