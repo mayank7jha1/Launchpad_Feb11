@@ -1,0 +1,26 @@
+[
+	{
+		"correct_answers":
+		[
+			"axb"
+		],
+		"test": "axyb\nabyxb\n"
+	},
+	{
+		"correct_answers":
+		[
+			"aa"
+		],
+		"test": "aa\nxayaz\n"
+	},
+	{
+		"test": "a\nz\n"
+	},
+	{
+		"correct_answers":
+		[
+			"aaadara"
+		],
+		"test": "abracadabra\navadakedavra\n"
+	}
+]
